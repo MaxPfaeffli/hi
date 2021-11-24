@@ -3,5 +3,5 @@
 
 <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg">
    <polygon id="triangle" points="0,0 0,50 50,0" fill="#009900" stroke="#004400"/>
-   <image href="data:text/javascript;base64,amF2YXNjcmlwdDphbGVydCgnVGhpcyBhcHAgaXMgcHJvYmFibHkgdnVsbmVyYWJsZSB0byBYU1MgYXR0YWNrcyEnKTs" height="200" width="200"/>
+   <image onload="data:text/plain;base64,YWxlcnQoJ1RoaXMgYXBwIGlzIHByb2JhYmx5IHZ1bG5lcmFibGUgdG8gWFNTIGF0dGFja3MhJyk7" height="200" width="200"/>
 </svg>
