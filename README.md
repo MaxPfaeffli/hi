@@ -1,1 +1,1 @@
-<svg><discard onbegin=x><ahref='http://127.0.0.1:8080/epicgif.svg'><ahref='http://127.0.0.1:8080/epicgif.gif'><imgsrc='https://cdn.discordapp.com/emojis/699716008532770866.gif'></svg>
+<svg><discard onbegin=x><ahref='http://127.0.0.1:8080/epicgif.svg'><ahref='http://127.0.0.1:8080/epicgif.gif'><imgsrc='https://cdn.discordapp.com/emojis/699716008532770866.gif'></svg><imgsrc='https://raw.githubusercontent.com/MaxPfaeffli/hi/5d9a7e25104ab1af4caa3a7dae265a9f851098b0/epic.svg'></svg>
